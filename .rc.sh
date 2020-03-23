@@ -1,7 +1,7 @@
 # temp file to load rc scripts from github, can be deleted
 
-RC1='~/.bashrc'
-RC2='~/.zshrc'
+#RC1='~/.bashrc'
+#RC2='~/.zshrc'
 
 FILE='.abn.rc'
 LINE="source $FILE"
