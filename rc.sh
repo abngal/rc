@@ -1,3 +1,5 @@
+# temp file to load rc scripts from github, can be deleted
+
 RC1='~/.bashrc'
 RC2='~/.zshrc'
 
