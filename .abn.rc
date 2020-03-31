@@ -1,2 +1,5 @@
-alias ss="sudo !!"
+alias s="sudo !!"
 alias r="ranger"
+alias gs="git status"
+alias d="lazydocker"
+alias h="htop"
