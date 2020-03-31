@@ -3,7 +3,7 @@
 #RC1='~/.bashrc'
 #RC2='~/.zshrc'
 
-FILE='.abn.rc'
+FILE='~/.abn.rc'
 LINE="source $FILE"
 
 rm -f $FILE
