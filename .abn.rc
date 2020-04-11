@@ -1,5 +1,6 @@
 alias s="sudo !!"
 alias r="ranger"
 alias gs="git status"
+alias gl="git log --oneline -10"
 alias d="lazydocker"
 alias h="htop"
